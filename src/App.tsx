@@ -2,8 +2,8 @@ import React from 'react';
 import './App.css';
 import {TaskType, TodoList} from "./todolist/TodoList";
 
-const todoListTitle_1: string = "What to buy";
-const todoListTitle_2: string = "What to study";
+const todoListTitle_1: string = "What to study ";
+const todoListTitle_2: string = "What to buy";
 const todoListTitle_3: string = "Olala";
 
 const tasks1: Array<TaskType>=[
